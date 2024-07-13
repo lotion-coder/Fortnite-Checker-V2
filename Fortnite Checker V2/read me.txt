@@ -1,0 +1,5 @@
+steps on how it works:
+1: Run Starlight Checker
+2: It Should open up a menu
+3:put the accounts u wanna skincheck
+4: and ur done!
